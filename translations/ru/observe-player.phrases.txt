@@ -1,0 +1,27 @@
+"Phrases"
+{
+    "You cannot observe yourself"
+    {
+        "ru"    "Вы не можете наблюдать за собой"
+    }
+
+    "You cannot observe dead player"
+    {
+        "ru"    "Вы не можете наблюдать за мертвым игроком"
+    }
+
+    "You are already observing"
+    {
+        "ru"    "Вы уже наблюдаете за {1}"
+    }
+
+    "Observation started"
+    {
+        "ru"    "Наблюдение за {lightgoldenrodyellow}{1}{default} начато"
+    }
+
+    "Observation stopped"
+    {
+        "ru"    "Наблюдение остановлено"
+    }
+}
