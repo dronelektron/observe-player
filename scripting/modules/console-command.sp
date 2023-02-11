@@ -1,5 +1,6 @@
 void Command_Create() {
     RegConsoleCmd("sm_observe", Command_Observe);
+    RegConsoleCmd("sm_observe_stop", Command_ObserveStop);
 }
 
 public Action Command_Observe(int client, int args) {
@@ -18,6 +19,12 @@ public Action Command_Observe(int client, int args) {
     if (target != CLIENT_NOT_FOUND) {
         UseCase_StartObservation(client, target);
     }
+
+    return Plugin_Handled;
+}
+
+public Action Command_ObserveStop(int client, int args) {
+    UseCase_StopObservation(client);
 
     return Plugin_Handled;
 }
