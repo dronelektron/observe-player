@@ -1,0 +1,34 @@
+"Phrases"
+{
+    "Prefix"
+    {
+        "en"    "{haunted}[Observe player]{default} "
+    }
+
+    "You cannot observe yourself"
+    {
+        "en"    "You cannot observe yourself"
+    }
+
+    "You cannot observe dead player"
+    {
+        "en"    "You cannot observe a dead player"
+    }
+
+    "You are already observing"
+    {
+        "#format"   "{1:N}"
+        "en"    "You are already observing {1}"
+    }
+
+    "Observation started"
+    {
+        "#format"   "{1:N}"
+        "en"    "Observation for {lightgoldenrodyellow}{1}{default} started"
+    }
+
+    "Observation stopped"
+    {
+        "en"    "Observation stopped"
+    }
+}
