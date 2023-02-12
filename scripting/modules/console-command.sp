@@ -5,7 +5,7 @@ void Command_Create() {
 
 public Action Command_Observe(int client, int args) {
     if (args < 1) {
-        Message_ObserveUsage(client);
+        Menu_Players(client);
 
         return Plugin_Handled;
     }

@@ -13,5 +13,5 @@ Allows you to observe a specific player
 
 ### Console Commands
 
-* sm_observe <#userid|name> - Start observation
+* sm_observe [#userid|name] - Open menu or start observing the specified player
 * sm_observe_stop - Stop observation

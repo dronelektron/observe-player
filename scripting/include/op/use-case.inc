@@ -4,6 +4,7 @@
 #define _op_use_case_included
 
 #define CLIENT_NOT_FOUND -1
+#define INVALID_CLIENT 0
 #define TEAM_SPECTATOR 1
 
 #define OBSERVER_MODE_FIRST_PERSON 4
