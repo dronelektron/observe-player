@@ -24,11 +24,21 @@
     "Observation started"
     {
         "#format"   "{1:N}"
-        "en"    "Observation for {lightgoldenrodyellow}{1}{default} started"
+        "en"    "Observation for {wheat}{1}{default} started"
     }
 
     "Observation stopped"
     {
         "en"    "Observation stopped"
+    }
+
+    "Observe player"
+    {
+        "en"    "Observe player"
+    }
+
+    "Player is no longer available"
+    {
+        "en"    "The player you selected is no longer available"
     }
 }

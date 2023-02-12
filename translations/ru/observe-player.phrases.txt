@@ -17,11 +17,21 @@
 
     "Observation started"
     {
-        "ru"    "Наблюдение за {lightgoldenrodyellow}{1}{default} начато"
+        "ru"    "Наблюдение за {wheat}{1}{default} начато"
     }
 
     "Observation stopped"
     {
         "ru"    "Наблюдение остановлено"
+    }
+
+    "Observe player"
+    {
+        "ru"    "Наблюдать за игроком"
+    }
+
+    "Player is no longer available"
+    {
+        "ru"    "Выбранный игрок больше не доступен"
     }
 }

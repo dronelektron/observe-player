@@ -2,11 +2,13 @@
 
 #include "morecolors"
 
+#include "op/menu"
 #include "op/message"
 #include "op/use-case"
 
 #include "modules/console-command.sp"
 #include "modules/event.sp"
+#include "modules/menu.sp"
 #include "modules/message.sp"
 #include "modules/use-case.sp"
 
