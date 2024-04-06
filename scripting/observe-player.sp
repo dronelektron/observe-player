@@ -1,7 +1,5 @@
 #include <sourcemod>
 
-#include "morecolors"
-
 #include "op/menu"
 #include "op/message"
 #include "op/use-case"

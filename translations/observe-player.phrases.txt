@@ -1,8 +1,8 @@
 "Phrases"
 {
-    "Prefix"
+    "Prefix colored"
     {
-        "en"    "{haunted}[Observe player]{default} "
+        "en"    "38F3AB[Observe player] "
     }
 
     "You cannot observe yourself"
@@ -24,7 +24,7 @@
     "Observation started"
     {
         "#format"   "{1:N}"
-        "en"    "Observation for {wheat}{1}{default} started"
+        "en"    "Observation for F5DEB3{1} started"
     }
 
     "Observation stopped"

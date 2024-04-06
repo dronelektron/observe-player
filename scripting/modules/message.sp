@@ -11,11 +11,11 @@ void Message_YouAreAlreadyObserving(int client, int target) {
 }
 
 void Message_ObservationStarted(int client, int target) {
-    CPrintToChat(client, "%t%t", PREFIX_COLORED, "Observation started", target);
+    PrintToChat(client, COLOR_DEFAULT ... "%t%t", PREFIX_COLORED, "Observation started", target);
 }
 
 void Message_ObservationStopped(int client) {
-    CPrintToChat(client, "%t%t", PREFIX_COLORED, "Observation stopped");
+    PrintToChat(client, COLOR_DEFAULT ... "%t%t", PREFIX_COLORED, "Observation stopped");
 }
 
 void Message_PlayerIsNoLongerAvailable(int client) {

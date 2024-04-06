@@ -17,7 +17,7 @@
 
     "Observation started"
     {
-        "ru"    "Наблюдение за {wheat}{1}{default} начато"
+        "ru"    "Наблюдение за F5DEB3{1} начато"
     }
 
     "Observation stopped"
