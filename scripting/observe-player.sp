@@ -1,10 +1,8 @@
 #include <sourcemod>
 
-#include "morecolors"
-
-#include "op/menu"
-#include "op/message"
-#include "op/use-case"
+#include "observe-player/menu"
+#include "observe-player/message"
+#include "observe-player/use-case"
 
 #include "modules/console-command.sp"
 #include "modules/event.sp"
@@ -16,7 +14,7 @@ public Plugin myinfo = {
     name = "Observe player",
     author = "Dron-elektron",
     description = "Allows you to observe a specific player",
-    version = "1.1.0",
+    version = "1.1.1",
     url = "https://github.com/dronelektron/observe-player"
 };
 
