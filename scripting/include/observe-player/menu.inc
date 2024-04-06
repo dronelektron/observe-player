@@ -1,7 +1,7 @@
-#if defined _op_menu_included
+#if defined _observe_player_menu_included
  #endinput
 #endif
-#define _op_menu_included
+#define _observe_player_menu_included
 
 #define INFO_SIZE 16
 

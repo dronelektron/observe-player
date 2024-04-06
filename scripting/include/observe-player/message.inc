@@ -1,7 +1,7 @@
-#if defined _op_message_included
+#if defined _observe_player_message_included
  #endinput
 #endif
-#define _op_message_included
+#define _observe_player_message_included
 
 #define COLOR_DEFAULT "\x01"
 

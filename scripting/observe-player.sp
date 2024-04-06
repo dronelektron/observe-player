@@ -1,8 +1,8 @@
 #include <sourcemod>
 
-#include "op/menu"
-#include "op/message"
-#include "op/use-case"
+#include "observe-player/menu"
+#include "observe-player/message"
+#include "observe-player/use-case"
 
 #include "modules/console-command.sp"
 #include "modules/event.sp"
